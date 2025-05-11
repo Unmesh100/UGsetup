@@ -56,7 +56,7 @@ export default function Footer() {
           </Button>
           <Button variant="ghost" size="icon" asChild>
             <Link
-              href="https://linkedin.com/in/unmesh-ghosh"
+              href="https://linkedin.com/in/unmesh100"
               target="_blank"
               rel="noopener noreferrer"
             >
